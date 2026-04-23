@@ -27,13 +27,9 @@ Bakery 関連の設定作業を補助する Unity Editor 拡張です。
 - リポジトリ  
   `https://github.com/wata23/BakeryLightSync`
 
-- 配布ページ  
-  `https://wata23.github.io/BakeryLightSync/`
+## 想定環境
 
-## 対象
-
-- VRChat Worlds 向け
-- Unity Editor 拡張を中心に配布予定
+- VRChatのUnity環境を想定しています。
 
 ## 注意事項
 
