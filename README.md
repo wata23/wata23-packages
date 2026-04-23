@@ -20,12 +20,9 @@ VRChat Creator Companion (VCC) 向けのパッケージ一覧です。
 
 ## 配布中のパッケージ
 
-### BakeryLightSync
+### [BakeryLightSync](https://github.com/wata23/BakeryLightSync)
 
 Bakery 関連の設定作業を補助する Unity Editor 拡張です。
-
-- リポジトリ  
-  `https://github.com/wata23/BakeryLightSync`
 
 ## 想定環境
 
