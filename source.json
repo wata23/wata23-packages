@@ -1,10 +1,16 @@
 {
   "name": "Wata23 Packages",
   "id": "com.wata23.packages.listing",
-  "author": "wata23",
   "url": "https://wata23.github.io/wata23-packages/index.json",
+  "author": {
+    "name": "wata23",
+    "email": "48621487+wata23@users.noreply.github.com",
+    "url": "https://github.com/wata23"
+  },
+  "description": "VPM listing for Wata23 packages.",
   "infoLink": {
-    "url": "https://github.com/wata23/wata23-packages"
+    "url": "https://github.com/wata23/wata23-packages",
+    "text": "View on GitHub"
   },
   "githubRepos": [
     "wata23/BakeryLightSync"
