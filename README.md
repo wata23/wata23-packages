@@ -6,6 +6,7 @@ VRChat Creator Companion (VCC) 向けのパッケージ一覧です。
 ## 追加方法
 
 リンクでもいいならこちらを押すことでVCCを起動して追加できます。心配な方はリンクより下の手動の手順でどうぞ。
+
 [VCCに追加](vcc://vpm/addRepo?url=https%3A%2F%2Fwata23.github.io%2Fwata23-packages%2Findex.json)
 
 1. VCC を開きます
