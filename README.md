@@ -5,9 +5,9 @@ VRChat Creator Companion (VCC) 向けのパッケージ一覧です。
 
 ## 追加方法
 
-リンクでもいいならこちらを押すことでVCCを起動して追加できます。心配な方はリンクより下の手動の手順でどうぞ。
+リンクでもいいなら、以下のページからVCCを起動して追加できます。心配な方はリンクより下の手動の手順でどうぞ。
 
-[Add to VCC](https://wata23.github.io/wata23-packages/add-repo/)
+[Add to VCC](https://wata23.github.io/wata23-packages/)
 
 1. VCC を開きます
 2. `Settings` → `Packages` → `Add Repository` を開きます
@@ -38,3 +38,7 @@ Bakery 関連の設定作業を補助する Unity Editor 拡張です。
 
 このリポジトリ自体は、各パッケージへの入口をまとめたものです。  
 個別パッケージのライセンスは、それぞれのリポジトリおよびパッケージ内のライセンス表記を参照してください。
+
+## 作者のXアカウント
+
+[wata23_37](https://x.com/wata23_37)
